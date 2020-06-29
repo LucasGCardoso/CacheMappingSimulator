@@ -8,7 +8,7 @@ Configurations: The variables you should change in order to change the cache con
  @param linha: "The number of bits the line has in each address - only change the raw number, it must always sum with the tag"
  @param palavra: "The number of bits the words have in each address - only change the raw number, it must always sum with the linha variable"
 """
-__author__      = "Lucas Cardoso, Pedro Rogoski"
+__author__      = "Lucas Cardoso"
 
 ######################
 # Initializing cache #

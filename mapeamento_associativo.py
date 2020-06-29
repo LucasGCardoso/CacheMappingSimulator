@@ -7,7 +7,7 @@ Configurations: The variables you should change in order to change the cache con
  @param tag: "The number of bits the tag has in each address"
  @param palavra: "The number of bits the words have in each address - only change the raw number, it must always sum with the tag"
 """
-__author__      = "Lucas Cardoso, Pedro Rogoski"
+__author__      = "Lucas Cardoso"
 
 ######################
 # Initializing cache #
