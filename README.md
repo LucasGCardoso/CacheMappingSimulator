@@ -1,5 +1,6 @@
 # CacheMappingSimulator
-This repo is a work from college, which consists in simulating both associative and direct cache mapping.
+## Introduction
+This repository is a work from college, which consists in simulating both associative and direct cache mapping. This code was all made by [me](https://github.com/LucasGCardoso), so, please, feel free to used it.
 
 ## Proposed Problem
 The objective of this work is to implement an algorithm for simulating both associative and direct cache mapping, for learning proposes. In this scenario I used 16 bit words, but this can be changed in the variables.
