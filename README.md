@@ -1,2 +1,2 @@
 # CacheMappingSimulator
-his repo is a work from college, which consists in simulating both associative and direct cache mapping.
+This repo is a work from college, which consists in simulating both associative and direct cache mapping.
